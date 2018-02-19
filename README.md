@@ -6,4 +6,11 @@ alt="111" width="500" height="370" border="10" />
 
 Hola Lonny!! 
 
+<script type="text/javascript">
+functiom getlnspiration(){
+if (morningDay === “depressed”)
+starCoding() && getAwesome();
+}
+</script>
+
 
